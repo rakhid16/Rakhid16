@@ -12,5 +12,5 @@
 🔥 Active to contribute as speaker in tech event such as community local meet up, conference, seminar, and workshop<br>
 
 <p align=right>
-📫 <a href="https://t.me/rakhmanWahid">My Telegram</a>
+📫 <a href="https://t.me/rakhmanWahid">Telegram</a>
 </p>
