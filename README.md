@@ -11,6 +11,6 @@
 ⚡ Research interest during college is Bioinformatics (machine learning and computer vision)<br>
 🔥 Active to contribute as speaker in tech event such as community local meet up, conference, seminar, and workshop<br>
 
-<right>
+<p align=right>
 📫 Feel free to reach me by <a href="https://t.me/rakhmanWahid">Telegram</a>
-</right>
+</p>
