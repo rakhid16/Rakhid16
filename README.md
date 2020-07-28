@@ -5,9 +5,9 @@
 </p>
 
 :mosque: A monotheist guy<br>
-🔭 Currently working on my final bachelor's thesis about open computer aided diagnosis system build using Flask, PyTorch/NumPy, and Firebase!<br>
-🔥 Active to contribute in tech event such as community local meet up, conference, seminar, and workshop<br>
 🕶️ Migrating from Python to Go<br>
+🔭 Currently working on my final bachelor's thesis<br>
+💻 Looking for advanced backend engineering job after graduation<br>
 ⚡ Research interest during college is Bioinformatics (machine learning and computer vision)<br>
-💻 Looking for advanced backend engineering job after graduation <br>
+🔥 Active to contribute in tech event such as community local meet up, conference, seminar, and workshop<br>
 📫 Feel free to reach me by <a href="https://t.me/rakhmanWahid">Telegram</a>
