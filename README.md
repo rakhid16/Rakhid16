@@ -4,8 +4,8 @@
 :indonesia: A monotheist guy<br>
 🕶️ Migrating from Python to Go<br>
 🔭 Currently working on my final bachelor's thesis<br>
+⚡ Research interest during college is machine learning for bioinformatics<br>
 💻 Looking for middle-advanced backend engineering job after graduation<br>
-⚡ Research interest during college is machine learning for bioinformatics <br>
 🔥 Active to contribute as speaker in tech event like community local meet up, conference, seminar, and workshop<br>
 
 <p align=right>
