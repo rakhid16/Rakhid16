@@ -4,7 +4,7 @@
 
 :indonesia: A monotheist guy<br>
 🕶️ Speak in Python and Go<br>
-🔭 Currently working on my final bachelor's thesis<br>
+🔭 Still working on my final bachelor's thesis<br>
 ⚡ Research interest during college is bioinformatics engineering<br>
 🔥 Active to contribute as speaker in community local meet up, conference, seminar, and workshop<br>
 
