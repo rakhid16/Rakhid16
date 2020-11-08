@@ -4,7 +4,6 @@
 
 :indonesia: A monotheist guy<br>
 🕶️ Speak in Python and Go<br>
-🔥 Active to contribute as speaker in community local meet up, conference, seminar, and workshop<br>
 
 <p align=right>
 <a href="https://t.me/rakhid16">Contact me</a> 📫
