@@ -18,8 +18,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
  <img src="https://svgshare.com/i/RMa.svg" alt="Pandas" width="40" height="40"/>
  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg" alt="CUDA" width="40" height="40"/>
 </p>
 
 <p align="center">
- Machine Learning :robot: and Backend Engineering :gear:</a>
+ Machine Learning :robot: and Backend Engineering :gear:
 </p>
