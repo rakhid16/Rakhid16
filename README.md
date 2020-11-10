@@ -20,7 +20,3 @@
  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="CUDA" width="40" height="40"/>
 </p>
-
-<p align="center">
- Machine Learning :robot: and Backend Engineering :gear:
-</p>
