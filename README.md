@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
  🕶️ <b>Main weapons :</b><br>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="40" height="40"/><br>
@@ -16,6 +16,6 @@
  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40"/>
 </p>
 
-<p align=right>
+<p align=left>
 <a href="https://t.me/rakhid16">Contact me</a> 📫
 </p>
