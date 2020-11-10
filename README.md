@@ -1,7 +1,7 @@
 <p align="center">
  <b>Main weapons</b><br>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="40" height="40"/><br>
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/><br>
+ <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
 </p>
 
 <p align="center">
