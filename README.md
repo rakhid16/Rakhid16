@@ -1,7 +1,7 @@
 <p align="center">
  <b>Main weapons</b><br>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="40" height="40"/>
+ <img src="https://svgshare.com/i/RNb.svg" alt="Go" width="40" height="60"/>
 </p>
 
 <p align="center">
