@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
- <a href="https://t.me/rakhid16">Contact me</a>
+ Machine Learning :robot: and Backend Engineering :gear:</a>
 </p>
