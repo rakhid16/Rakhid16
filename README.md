@@ -6,7 +6,7 @@
 
 <p align="center">
  <b>Fluently at</b><br>
- <img src="https://i.ibb.co/6y9bJTZ/logo-mongodb-1.png" alt="MongoDB" width="40" height="40"/>
+ <img src="https://i.ibb.co/6y9bJTZ/logo-mongodb-1.png" alt="MongoDB" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
  <img src="https://i.ibb.co/YhXBqg6/My-SQL-Logo-wine.png" alt="MySQL" width=60" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
