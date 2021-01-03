@@ -6,9 +6,9 @@
 
 <p align="center">
  <b>Fluently at</b><br>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+ <img src="https://i.ibb.co/6y9bJTZ/logo-mongodb-1.png" alt="MongoDB" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+ <img src="https://i.ibb.co/YhXBqg6/My-SQL-Logo-wine.png" alt="MySQL" width=60" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
 </p>
 
