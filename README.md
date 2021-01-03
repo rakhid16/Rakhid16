@@ -1,6 +1,6 @@
 <p align="center">
  <b>Main languages</b><br>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
  <img src="https://svgshare.com/i/RNb.svg" alt="Go" width="40" height="40"/>
 </p>
 
