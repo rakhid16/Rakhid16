@@ -1,6 +1,6 @@
 <p align="Left">
  <b>Shipping the math/statistic function to production with :</b><br>
- Python, NumPy, FastAPI, and RDBMS.
+ Python, NumPy, and FastAPI.
 </p>
 
 <p align="Left">
