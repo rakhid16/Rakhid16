@@ -5,7 +5,7 @@
 
 <p align="Left">
  <b>Fluently at :</b><br>
- Flask, PyTorch, Pandas, Scikit-Learn, SQL/NoSQL DB, & Go.
+ Flask, PyTorch, Pandas, Scikit-Learn, & SQL/NoSQL DB.
 </p>
 
 <p align="right">
