@@ -5,7 +5,7 @@
 
 <p align="Left">
  <b>Focused on :</b><br>
- Machine Learning for Research and Engineering.
+ Machine Learning for research, engineering, and production purpose.
 </p>
 
 <p align="right">
