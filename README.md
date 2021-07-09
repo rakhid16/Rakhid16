@@ -5,7 +5,7 @@
 
 <p align="Left">
  <b>Focused on :</b><br>
- Machine Learning and Backend Engineering.
+ Machine Learning for Research and Engineering.
 </p>
 
 <p align="right">
