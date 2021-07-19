@@ -1,12 +1,12 @@
 Tools:<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-777BB4?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/flask-109989?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white"><br><br>
+<img src="https://img.shields.io/badge/Flask-109989?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=FASTAPI&logoColor=white"><br><br>
 Databases:<br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
