@@ -7,11 +7,11 @@ Tools:<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/flask-109989?style=flat&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white"><br><br>
-Databases:<br>
+Databases and ORM:<br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br><br>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br><br>
 Dev Platforms:<br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white">
