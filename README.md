@@ -19,6 +19,7 @@ Dev Platforms:<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"><br><br>
-Socials:<br>
+Find me:<br>
 <a href="https://t.me/rakhid16"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a> 
 <a href="https://linkedin.com/in/rakhid16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://scholar.google.com/citations?user=-HlhF7wAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-white?style=flat&logo=Google%20Scholar"></a
