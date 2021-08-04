@@ -22,4 +22,4 @@ Dev Platforms:<br>
 Find me:<br>
 <a href="https://t.me/rakhid16"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a> 
 <a href="https://linkedin.com/in/rakhid16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://scholar.google.com/citations?user=-HlhF7wAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-white?style=flat&logo=Google%20Scholar"></a
+<a href="https://scholar.google.com/citations?user=-HlhF7wAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-white?style=flat&logo=Google%20Scholar"></a>
