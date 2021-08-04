@@ -21,7 +21,8 @@ Dev Platforms:<br>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"><br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"><br><br>
 Find me:<br>
 <a href="https://t.me/rakhid16"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a> 
 <a href="https://linkedin.com/in/rakhid16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
