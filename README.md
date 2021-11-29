@@ -7,7 +7,6 @@ Tools:<br>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-109989?style=flat&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=FASTAPI&logoColor=white"><br><br>
 Databases:<br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
@@ -19,7 +18,6 @@ Dev Platforms:<br>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"><br><br>
 Find me:<br>
