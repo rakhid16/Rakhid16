@@ -11,7 +11,7 @@
 <b>Databases:</b><br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/ElasticSearch-316192?style=flat&logo=elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black"><br><br>
 <b>Dev Platforms:</b><br>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
