@@ -16,7 +16,7 @@
 <b>Dev Platforms:</b><br>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Apple Silicon-808080?style=flat&logo=apple&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"><br><br>
 <b>Find me:</b><br>
 <a href="https://t.me/rakhid16"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a> 
