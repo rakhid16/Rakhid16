@@ -16,6 +16,7 @@
 <b>Dev Platforms:</b><br>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Apple Silicon-808080?style=flat&logo=apple&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"><br><br>
 <b>Find me:</b><br>
