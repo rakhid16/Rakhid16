@@ -4,4 +4,4 @@
 
 💾 **Databases**: PostgreSQL • BigQuery • MySQL • MongoDB • Firebase • ElasticSearch
 
-🛠️ **Other tools**: FastAPI • Pandas, NumPy, MatPlotlib • PyTorch & TensorFlow • DAGster • Flower
+🛠️ **Other tools**: FastAPI • Pandas, NumPy, MatPlotlib • PyTorch & TensorFlow • DAGster • Flower-FL
