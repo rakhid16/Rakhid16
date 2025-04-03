@@ -1,7 +1,7 @@
-🚀 Focusing on: Backend Engineering • Data Science • Machine Learning (Adversarial Robustness & Privacy Preserving)
+🚀 **Interests**: Backend Engineering • Data Science • Machine Learning (Adversarial Robustness & Privacy Preserving)
   
-✏️ (Preferred) Languages: Python • Go • Rust
+✏️ **(Preferred) Languages**: Python • Go • Rust
 
-💾 Databases: PostgreSQL • BigQuery • MySQL • MongoDB • Firebase • ElasticSearch
+💾 **Databases**: PostgreSQL • BigQuery • MySQL • MongoDB • Firebase • ElasticSearch
 
-🛠️ Other tools: FastAPI • Pandas, NumPy, MatPlotlib • PyTorch & TensorFlow • DAGster • Flower
+🛠️ **Other tools**: FastAPI • Pandas, NumPy, MatPlotlib • PyTorch & TensorFlow • DAGster • Flower
