@@ -1,4 +1,4 @@
-🚀 **Interests**: Backend Engineering • Data Science • (Secure & Privacy-Preserving) Machine Learning
+🚀 **Interests**: Backend Engineering • Data Science • (Trustworthy) Machine Learning
   
 ✏️ **(Preferred) Languages**: Python • Go • Rust
 
