@@ -1,6 +1,6 @@
-🚀 **Interests**: Backend Engineering • Data Science • (Trustworthy) Machine Learning
+🚀 **Interests**: Backend Engineering • (Trustworthy) Machine Learning
   
-✏️ **(Preferred) Languages**: Python • Go • Rust
+✏️ **(Preferred) Languages**: Go • Rust • Python
 
 💾 **Databases**: PostgreSQL • BigQuery • MySQL • MongoDB • Firebase • ElasticSearch
 
