@@ -1,4 +1,4 @@
-🚀 **Interests**: Backend Engineering • (Trustworthy) Machine Learning • Distributed Systems
+🚀 **Interests**: Distributed Systems • Privacy Engineering
   
 ✏️ **(Preferred) Languages**: Rust • Go • Python
 
