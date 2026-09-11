@@ -1,7 +1,7 @@
-🚀 **Interests**: Distributed Systems • Privacy Engineering
+🚀 **Research Interests**: Distributed Systems • Privacy Engineering
   
-✏️ **(Preferred) Languages**: Rust • Go • Python
+✏️ **(Preferred) Languages**: Zig • TypeScript • Python
 
 💾 **Databases**: PostgreSQL • BigQuery • MySQL • MongoDB • Firebase • ElasticSearch
 
-🛠️ **Other tools**: FastAPI • Pandas, NumPy, MatPlotlib • PyTorch & TensorFlow • DAGster • Flower-FL
+🛠️ **Other tools**: FastAPI • Pandas, NumPy, MatPlotlib • PyTorch & TensorFlow • DAGster • Flower-FL • Node.JS
