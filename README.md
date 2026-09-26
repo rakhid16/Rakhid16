@@ -1,6 +1,6 @@
-🚀 **Research Interests**: Distributed Systems • Privacy Engineering
+🚀 **Research Interests**: Distributed Systems • Privacy Engineering • Bioinformatics
   
-✏️ **(Preferred) Languages**: Zig • TypeScript • Python
+✏️ **(Preferred) Languages**: Rust • TypeScript • Python
 
 💾 **Databases**: PostgreSQL • BigQuery • MySQL • MongoDB • Firebase • ElasticSearch
 
